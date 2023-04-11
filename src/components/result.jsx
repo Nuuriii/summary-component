@@ -2,7 +2,7 @@ import React from "react";
 
 function Result() {
    return (
-      <div className="bg-gradient-to-t from-indigo-800 to-indigo-600  flex flex-col rounded-bl-3xl rounded-br-3xl lg:rounded-3xl  justify-center ">
+      <div className="bg-gradient-to-t from-indigo-800 to-indigo-600  flex flex-col rounded-bl-3xl rounded-br-3xl lg:rounded-3xl  justify-center lg:h-full lg:pl-5 lg:pr-5">
          <div className="flex-wrap  text-center  mt-5 mb-5">
             <h1 className="font-bold text-slate-300 text-2xl">Your Result</h1>
          </div>
@@ -13,7 +13,7 @@ function Result() {
             </div>
          </div>
          <div className="text-center">
-            <div className="ml-auto mr-auto">
+            <div className="ml-auto mr-auto lg:pb-5">
                <h1 className="mt-5 text-3xl font-bold text-white">Great</h1>
                <div className="ml-auto mt-3 mr-auto w-72 mb-8">
                   <p className="text-white">
