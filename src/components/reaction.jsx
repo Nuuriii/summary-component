@@ -4,7 +4,7 @@ function Reaction() {
    return (
       <div className="bg-red-100 p-3 mt-4 rounded-xl flex justify-between ">
          <div className="flex ">
-            <img className="" src="../public/images/icon-reaction.svg" alt="" />
+            <img className="" src="./images/icon-reaction.svg" alt="" />
 
             <p className="ml-3 text-red-500 font-semibold">Reaction</p>
          </div>
