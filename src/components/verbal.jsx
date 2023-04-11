@@ -10,7 +10,7 @@ function Verbal() {
          </div>
          <div>
             <span className="font-bold">61 </span>
-            <span className="font-semibold text-neutral-400">/100</span>
+            <span className="font-semibold text-neutral-400">/ 100</span>
          </div>
       </div>
    );

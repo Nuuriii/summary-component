@@ -10,7 +10,7 @@ function Visual() {
          </div>
          <p className="">
             <span className="font-bold">72 </span>
-            <span className="font-semibold text-neutral-400">/100</span>
+            <span className="font-semibold text-neutral-400">/ 100</span>
          </p>
       </div>
    );
