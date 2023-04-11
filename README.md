@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://github.com/Nurrohmann/summary-component)
--  Live Site URL: [Add live site URL here](https://summary-component-nine.vercel.app/)
+-  Solution URL: [Github](https://github.com/Nurrohmann/summary-component)
+-  Live Site URL: [Vercel](https://summary-component-nine.vercel.app/)
 
 ### Built with
 
